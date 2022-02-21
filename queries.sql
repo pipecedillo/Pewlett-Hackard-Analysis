@@ -81,3 +81,7 @@ AND (hire_date BETWEEN '1985-01-01' AND '1988-12-31');
 
 SELECT * FROM retirement_info;
 
+SELECT * FROM public.employees
+
+SELECT * FROM public.departments
+
